@@ -1,3 +1,3 @@
 @echo off
-cd DB
+cd database
 run_and_log.bat

@@ -1,3 +1,3 @@
 @echo off
-cd DB
+cd database
 docker-compose up
